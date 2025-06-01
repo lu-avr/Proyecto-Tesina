@@ -12,7 +12,8 @@ use_github()
 #2. Ir a la tab de 'Git' en la box de la derecha. Tocar en el botón de Commit.
 #3. Se te va a abrir una nueva ventana. Agregale una descripción al commit. 
 #Toca en el botón 'Commit'.
-#4. Tus cambios ahora se van a ver reflejados en el proyecto Github
+#4. Tocar en el botón 'Close' y cierra la nueva ventana.
+#5. Tus cambios ahora se van a ver reflejados en el proyecto Github
 
 # Pullear cambios: Se puede hacer modificaciones a los archivos desde Github (no es muy usual).
 #1. Ir a la tab de 'Git' en la caja de la derecha

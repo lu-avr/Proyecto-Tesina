@@ -20,6 +20,10 @@ use_github()
 #2. Tocar en Pull
 #3. Vas a tener la nueva versión del archivo en local.
 
+# Hay un botón 'Push' en la tab de Git. No termino de entender que hace. Algo relacionado con pushear
+# HEAD to master... si haces cambios, los guardas y le das a Push, no se te actualiza el archivo en el que hicsite cambios.
+# Ojota
+
 #Paquetes utilizados
 library(readxl)
 library(tidyverse)
